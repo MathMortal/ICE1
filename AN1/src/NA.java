@@ -23,6 +23,8 @@ public class NA {
         System.out.println("******");
         System.out.println("***");
         System.out.println("*");
+                System.out.println("*************************");
+
         
     }
     
